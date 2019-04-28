@@ -1,5 +1,4 @@
-# TriviaGame
-Homework Assignment #5: Trivia Game
+
 # TriviaGame
 Homework Assignment #5: Trivia Game
 # JavaScript Assignment 2
